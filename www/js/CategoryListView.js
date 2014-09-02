@@ -1,3 +1,4 @@
+
 var CategoryListView = Backbone.View.extend({
 
     tagName:'ul',
